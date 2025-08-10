@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "parts": [
+    "Bumper",
+    "Door",
+    "Hood",
+    "Trunk",
+    "Engine",
+    "Glass",
+    "Win",
+    "Mirror",
+    "Roof",
+    "Telo",
+    "Fuel_Tank",
+    "Spare_Wheel",
+    "Salon",
+    "Steering_Wheel",
+    "Dno",
+    "Lights",
+    "Cargo",
+    "Exhaust",
+    "Floater",
+    "Grill",
+    "Spoiler",
+    "Air_Intake",
+    "Splitter",
+    "Side_Skirts",
+    "Fender",
+    "Bullbar",
+    "Frame",
+    "Diffuser",
+    "Trailer"
+  ],
+  "lods": [
+    "Lod",
+    "Dist_Lod",
+    "Lod_Col",
+    "Body",
+    "Body_2",
+    "Body_Bron",
+    "Shadow",
+    "Shadow_Dist_Lod",
+    "Hit_Touch_Col",
+    "Kit_1",
+    "Kit_2",
+    "Kit_3"
+  ],
+  "modifiers": [
+    "Comb"
+  ],
+  "case_sensitive_default": true
+}
