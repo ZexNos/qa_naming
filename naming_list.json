@@ -21,7 +21,7 @@
     "Exhaust",
     "Floater",
     "Grill",
-    "Spoiler_22",
+    "Spoiler",
     "Air_Intake",
     "Splitter",
     "Side_Skirts",
@@ -51,3 +51,4 @@
   "case_sensitive_default": true
 
 }
+
