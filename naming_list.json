@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 1.1,
   "parts": [
     "Bumper",
     "Door",
@@ -16,7 +16,7 @@
     "Salon",
     "Steering_Wheel",
     "Dno",
-    "Lights",
+    "Light",
     "Cargo",
     "Exhaust",
     "Floater",
@@ -51,6 +51,7 @@
   "case_sensitive_default": true
 
 }
+
 
 
 
