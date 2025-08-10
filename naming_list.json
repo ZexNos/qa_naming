@@ -1,5 +1,5 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "parts": [
     "Bumper",
     "Door",
@@ -48,10 +48,25 @@
   "modifiers": [
     "Comb"
   ],
+  "materials": [
+    "Carbon",
+    "Carpaint_1",
+    "Carpaint_2",
+    "Chrome",
+    "Dno",
+    "Engine",
+    "Lights",
+    "Glass",
+    "Grid_transp",
+    "Lod2_mat1",
+    "Lod2_mat2",
+    "Metal",
+    "Mirror",
+    "Plastic",
+    "Plastic_Black",
+    "Salon_B",
+    "Salon_F",
+    "Steering_Wheel"
+  ],
   "case_sensitive_default": true
-
 }
-
-
-
-
